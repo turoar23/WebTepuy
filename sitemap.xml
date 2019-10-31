@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://tepuyburger.es/</loc>
+  <lastmod>2019-07-26T11:31:31+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://tepuyburger.es/nosotros</loc>
+  <lastmod>2019-07-26T11:31:31+00:00</lastmod>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>https://tepuyburger.es/menu</loc>
+  <lastmod>2019-07-26T11:31:31+00:00</lastmod>
+  <priority>0.90</priority>
+</url>
+<url>
+  <loc>https://tepuyburger.es/reservas</loc>
+  <lastmod>2019-07-26T11:31:31+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://tepuyburger.es/delivery</loc>
+  <lastmod>2019-07-26T11:31:31+00:00</lastmod>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>https://tepuyburger.es/contacto</loc>
+  <lastmod>2019-07-26T11:31:31+00:00</lastmod>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>https://tepuyburger.es/en/</loc>
+  <lastmod>2019-07-26T11:31:31+00:00</lastmod>
+  <priority>0.20</priority>
+</url>
+<url>
+  <loc>https://tepuyburger.es/restaurante/garbinet</loc>
+  <lastmod>2019-07-26T11:31:31+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://tepuyburger.es/restaurante/centro</loc>
+  <lastmod>2019-07-26T11:31:31+00:00</lastmod>
+  <priority>0.40</priority>
+</url>
+<url>
+  <loc>https://tepuyburger.es/en/aboutUs</loc>
+  <lastmod>2019-07-26T11:31:31+00:00</lastmod>
+  <priority>0.20</priority>
+</url>
+<url>
+  <loc>https://tepuyburger.es/en/menu</loc>
+  <lastmod>2019-07-26T11:31:31+00:00</lastmod>
+  <priority>0.40</priority>
+</url>
+<url>
+  <loc>https://tepuyburger.es/en/reservation</loc>
+  <lastmod>2019-07-26T11:31:31+00:00</lastmod>
+  <priority>0.40</priority>
+</url>
+<url>
+  <loc>https://tepuyburger.es/en/delivery</loc>
+  <lastmod>2019-07-26T11:31:31+00:00</lastmod>
+  <priority>0.40</priority>
+</url>
+<url>
+  <loc>https://tepuyburger.es/en/contact</loc>
+  <lastmod>2019-07-26T11:31:31+00:00</lastmod>
+  <priority>0.40</priority>
+</url>
+<url>
+  <loc>https://tepuyburger.es/en/restaurant/garbinet</loc>
+  <lastmod>2019-07-26T11:31:31+00:00</lastmod>
+  <priority>0.40</priority>
+</url>
+<url>
+  <loc>https://tepuyburger.es/en/restaurant/center</loc>
+  <lastmod>2019-07-26T11:31:31+00:00</lastmod>
+  <priority>0.40</priority>
+</url>
+
+
+</urlset>
