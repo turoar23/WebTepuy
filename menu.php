@@ -192,7 +192,7 @@
                               </div>
                               <div class="media-body">
                                 <h4 class="media-heading"><?php text("Alitas de pollo");?></h4>
-                                <span class="mu-menu-price">€7</span>
+                                <span class="mu-menu-price">€7,5</span>
                                 <p><?php text("menu-alitas-desc");?></p>
                               </div>
                             </div>
