@@ -82,7 +82,8 @@
             <ul class="nav nav-tabs mu-restaurant-menu">
               <li class="active"><a href="#breakfast" data-toggle="tab"><?php text("Entrantes");?></a></li>
               <li><a href="#meals" data-toggle="tab"><?php text("Hamburguesas");?></a></li>
-              <li><a href="#snacks" data-toggle="tab"><?php text("Pollo");?></a></li>
+              <li><a href="#snacks" data-toggle="tab"><?php text("Otras variedades");?></a></li>
+              <li><a href="#desserts" data-toggle="tab"><?php text("Ensaladas");?></a></li>
               <li><a href="#drinks" data-toggle="tab">Arepas</a></li>
               <li><a href="#menu-del-dia" data-toggle="tab">Menú del dia</a></li>
             </ul>
@@ -102,11 +103,11 @@
                               </div>
                               <div class="media-body">
                                 <h4 class="media-heading"><?php text("Patatas fritas con bacon y cheddar");?></h4>
-                                <span class="mu-menu-price">€6,5</span>
+                                <span class="mu-menu-price">€6</span>
                               </div>
                             </div>
                           </li>
-                          <li>
+                           <li>
                             <div class="media">
                               <div class="media-left">
                                 <img class="media-object" src="/img/nachos.jpg" alt="img">
@@ -115,23 +116,10 @@
                                 <h4 class="media-heading">Nachos Anaya</h4>
                                 <span class="mu-menu-price">€9,5</span>
                                 <p><?php text("menu-nachos-desc");?></p>
-                                <p class="texto-naranja"><?php text("Los más recomendados de la casa");?></p>
                               </div>
                             </div>
                           </li>
-                          <li>
-                            <div class="media">
-                              <div class="media-left">
-                                <img class="media-object" src="/img/burgers/img-soon.jpg" alt="img">
-                             </div>
-                             <div class="media-body">
-                               <h4 class="media-heading">Los provocativos</h4>
-                               <span class="mu-menu-price">7€</span>
-                               <p><?php text("menu-provocativos-desc");?></p>
-                             </div>
-                           </div>
-                          </li>
-                          <li>
+                           <li>
                             <div class="media">
                               <div class="media-left">
                                 <img class="media-object" src="/img/chicken-tenders.png" alt="img">
@@ -144,47 +132,35 @@
                             </div>
                           </li>
                           <li>
-                            <div class="media">
-                              <div class="media-left">
-                                <img class="media-object" src="/img/burgers/img-soon.jpg" alt="img">
-                              </div>
-                              <div class="media-body">
-                                <h4 class="media-heading">Trio de empanaditas</h4>
-                                <span class="mu-menu-price">6€</span>
-                                <p><?php text("menu-empanaditas-desc");?></p>
-                              </div>
+                           <div class="media">
+                             <div class="media-left">
+                                <img class="media-object" src="/img/patacones.png" alt="img">
+                             </div>
+                             <div class="media-body">
+                               <h4 class="media-heading">Patacones</h4>
+                               <span class="mu-menu-price">7,5€</span>
+                               <p><?php text("menu-patacones-desc");?></p>
+                             </div>
+                           </div>
+                         </li>
+                         <li>
+                          <div class="media">
+                            <div class="media-left">
+                              <img class="media-object" src="/img/macandcheese.jpg" alt="img">
                             </div>
-                          </li>
-                          <li>
-                            <div class="media">
-                              <div class="media-left">
-                                <img class="media-object" src="/img/burgers/img-soon.jpg" alt="img">
-                              </div>
-                              <div class="media-body">
-                                <h4 class="media-heading">Mini arepitas</h4>
-                                <span class="mu-menu-price">7,5€</span>
-                                <p><?php text("menu-arepitas-desc");?></p>
-                              </div>
+                            <div class="media-body">
+                              <h4 class="media-heading">Macandcheese balls</h4>
+                              <span class="mu-menu-price">7€</span>
+                              <p><?php text("6 unidades de macarrones con queso rebozados y fritos");?></p>
                             </div>
-                          </li>
+                          </div>
+                        </li>
                         </ul>
                       </div>
                     </div>
                    <div class="col-md-6">
                      <div class="mu-tab-content-right">
                         <ul class="mu-menu-item-nav">
-                          <li>
-                            <div class="media">
-                              <div class="media-left">
-                                <img class="media-object" src="/img/burgers/img-soon.jpg" alt="img">
-                              </div>
-                              <div class="media-body">
-                                <h4 class="media-heading">Trío criollo</h4>
-                                <span class="mu-menu-price">9,8€</span>
-                                <p><?php text("menu-trio-crollo-desc");?></p>
-                              </div>
-                            </div>
-                          </li>
                           <li>
                             <div class="media">
                               <div class="media-left">
@@ -197,31 +173,7 @@
                               </div>
                             </div>
                           </li>
-                          <li>
-                            <div class="media">
-                              <div class="media-left">
-                                <img class="media-object" src="/img/burgers/img-soon.jpg" alt="img">
-                              </div>
-                              <div class="media-body">
-                                <h4 class="media-heading">Ensalada de burrata fresca</h4>
-                                <span class="mu-menu-price">7,5€</span>
-                                <p><?php text("menu-ensalada-burrata-desc");?></p>
-                              </div>
-                            </div>
-                          </li>
-                          <li>
-                            <div class="media">
-                              <div class="media-left">
-                                <img class="media-object" src="/img/burgers/img-soon.jpg" alt="img">
-                              </div>
-                              <div class="media-body">
-                                <h4 class="media-heading">Ensalada provolone</h4>
-                                <span class="mu-menu-price">7,5€</span>
-                                <p><?php text("menu-ensalada-provolone-desc");?></p>
-                              </div>
-                            </div>
-                          </li>
-                          <li>
+                           <li>
                             <div class="media">
                               <div class="media-left">
                                 <img class="media-object" src="/img/tequeños.png" alt="img">
@@ -230,6 +182,18 @@
                                 <h4 class="media-heading">Tequeños</h4>
                                 <span class="mu-menu-price">€7,5</span>
                                 <p><?php text("menu-tequenos-desc");?></p>
+                              </div>
+                            </div>
+                          </li>
+                           <li>
+                            <div class="media">
+                              <div class="media-left">
+                                <img class="media-object" src="/img/tequechapas.png" alt="img">
+                              </div>
+                              <div class="media-body">
+                                <h4 class="media-heading">Tequechapa</h4>
+                                <span class="mu-menu-price">€7,5</span>
+                                <p><?php text("Dedos de queso caribeño rebozados con harina de maiz dulce");?></p>
                               </div>
                             </div>
                           </li>
@@ -260,172 +224,17 @@
                           <li>
                             <div class="media">
                               <div class="media-left">
-                                <img class="media-object" src="/img/burgers/hamburguesa-corleone.png" alt="img">
-                              </div>
-                              <div class="media-body">
-                                <h4 class="media-heading">Corleone</h4>
-                                <span class="mu-menu-price">€12</span>
-                                <p><?php text("menu-corleone-desc");?></p>
-                                <p class="texto-naranja"><?php text("No hablamos de negocios en la mesa");?></p>
-                              </div>
-                            </div>
-                          </li>
-                          <li>
-                            <div class="media">
-                              <div class="media-left">
-                                  <img class="media-object" src="/img/hamburguesa-vegetariana.png" alt="img">
-                              </div>
-                              <div class="media-body">
-                                <h4 class="media-heading"><?php text("Vegetariana");?></h4>
-                                <span class="mu-menu-price">€9,5</span>
-                                <p><?php text("menu-vege-desc");?></p>
-                                <p class="texto-naranja"><?php text("Hazla vegana con la opción Areburger");?></p>
-                              </div>
-                            </div>
-                          </li>
-                          <li>
-                            <div class="media">
-                              <div class="media-left">
-                                  <img class="media-object" src="/img/hamburguesa-inglesa.png" alt="img">
-                              </div>
-                              <div class="media-body">
-                                <h4 class="media-heading">La inglesa</h4>
-                                <span class="mu-menu-price">€9,5</span>
-                                <p><?php text("Queso cheddar, bacon y huevo frito");?></p>
-                              </div>
-                            </div>
-                          </li>
-                          <li>
-                           <div class="media">
-                             <div class="media-left">
-                                 <img class="media-object" src="/img/hamburguesa-rey-arturo.png" alt="img">
-                             </div>
-                             <div class="media-body">
-                               <h4 class="media-heading">Rey Arturo</h4>
-                               <span class="mu-menu-price">€10</span>
-                               <p><?php text("menu-rey-desc");?></p>
-                             </div>
-                           </div>
-                          </li>
-                          <li>
-                            <div class="media">
-                              <div class="media-left">
-                                <img class="media-object" src="/img/hamburguesa-beety-miranda.png" alt="img">
-                              </div>
-                              <div class="media-body">
-                                <h4 class="media-heading">La beety miranda</h4>
-                                <span class="mu-menu-price">€10</span>
-                                <p><?php text("Salsa Beety, bacon, cebollino y queso cheddar");?></p>
-                                <p class="texto-naranja"><?php text("La que arrasa en Instagram");?></p>
-                              </div>
-                            </div>
-                          </li>
-                          <li>
-                            <div class="media">
-                              <div class="media-left">
-                                <img class="media-object" src="/img/hamburguesa-cheeseburger.png" alt="img">
-                              </div>
-                              <div class="media-body">
-                                <h4 class="media-heading">Cheeseburger <span class="numeros-fuente">2.0</span></h4>
-                                <span class="mu-menu-price">€8,5</span>
-                                <p><?php text("menu-cheese-desc");?></p>
-                              </div>
-                            </div>
-                          </li>
-                          <li>
-                            <div class="media">
-                              <div class="media-left">
-                                  <img class="media-object" src="/img/burgers/hamburguesa-avoicator.png" alt="img">
-                              </div>
-                              <div class="media-body">
-                                <h4 class="media-heading">Avoicator</h4>
-                                <span class="mu-menu-price">€11,2</span>
-                                <p><?php text("menu-avoicator-desc");?></p>
-                                <p class="texto-naranja"><?php text("Sabemos que deseas aguacate");?></p>
-                              </div>
-                            </div>
-                          </li>
-                        </ul>
-                      </div>
-                    </div>
-                   <div class="col-md-6">
-                     <div class="mu-tab-content-right">
-                        <ul class="mu-menu-item-nav">
-                          <li>
-                            <div class="media">
-                              <div class="media-left">
-                                <img class="media-object" src="/img/burgers/hamburguesa-tovar.png" alt="img">
-                              </div>
-                              <div class="media-body">
-                                <h4 class="media-heading">Tovar</h4>
-                                <span class="mu-menu-price">€12,5</span>
-                                <p><?php text("menu-tovar-desc");?></p>
-                              </div>
-                            </div>
-                          </li>
-                          <li>
-                            <div class="media">
-                              <div class="media-left">
                                 <img class="media-object" src="/img/hamburguesa-gloriosa.png" alt="img">
                               </div>
                               <div class="media-body">
                                 <h4 class="media-heading">La gloriosa</h4>
-                                <span class="mu-menu-price">€10,5</span>
+                                <span class="mu-menu-price">€10</span>
                                 <p><?php text("menu-gloriosa-desc");?></p>
                                 <p class="texto-naranja"><?php text("Una fusión en tu paladar");?></p>
                               </div>
                             </div>
                           </li>
-                          <li>
-                            <div class="media">
-                              <div class="media-left">
-                                  <img class="media-object" src="/img/hamburguesa-gaby.png" alt="img">
-                              </div>
-                              <div class="media-body">
-                                <h4 class="media-heading">La gaby burger</h4>
-                                <span class="mu-menu-price">€9,5</span>
-                                <p><?php text("menu-gaby-desc");?></p>
-                              </div>
-                            </div>
-                          </li>
-                          <li>
-                            <div class="media">
-                              <div class="media-left">
-                                  <img class="media-object" src="/img/burgers/hamburguesa-caprichosa.png" alt="img">
-                              </div>
-                              <div class="media-body">
-                                <h4 class="media-heading">La caprichosa</h4>
-                                <span class="mu-menu-price">€10</span>
-                                <p><?php text("Queso cabra, mermelada de tomate y cebolla crunch");?></p>
-                              </div>
-                            </div>
-                          </li>
-                          <li>
-                            <div class="media">
-                              <div class="media-left">
-                                  <img class="media-object" src="/img/burgers/hamburguesa-habanera.png" alt="img">
-                              </div>
-                              <div class="media-body">
-                                <h4 class="media-heading">La habanera</h4>
-                                <span class="mu-menu-price">€12,5</span>
-                                <p><?php text("menu-habanera-desc");?></p>
-                              </div>
-                            </div>
-                          </li>
-                          <li>
-                            <div class="media">
-                              <div class="media-left">
-                                <img class="media-object" src="/img/burgers/hamburguesa-ei-ou.png" alt="img">
-                              </div>
-                              <div class="media-body">
-                                <h4 class="media-heading">EI-OU</h4>
-                                <span class="mu-menu-price">€14,5</span>
-                                <p><?php text("menu-ei-ou-desc");?></p>
-                                <p class="texto-naranja">The big one</p>
-                              </div>
-                            </div>
-                          </li>
-                          <li>
+                           <li>
                             <div class="media">
                               <div class="media-left">
                                   <img class="media-object" src="/img/hamburguesa-andale.png" alt="img">
@@ -438,6 +247,136 @@
                               </div>
                             </div>
                           </li>
+                           <li>
+                            <div class="media">
+                              <div class="media-left">
+                                  <img class="media-object" src="/img/hamburguesa-gaby.png" alt="img">
+                              </div>
+                              <div class="media-body">
+                                <h4 class="media-heading">La gaby burger</h4>
+                                <span class="mu-menu-price">€9</span>
+                                <p><?php text("menu-gaby-desc");?></p>
+                              </div>
+                            </div>
+                          </li>
+                          <li>
+                           <div class="media">
+                             <div class="media-left">
+                                 <img class="media-object" src="/img/hamburguesa-rey-arturo.png" alt="img">
+                             </div>
+                             <div class="media-body">
+                               <h4 class="media-heading">Rey Arturo</h4>
+                               <span class="mu-menu-price">€9,5</span>
+                               <p><?php text("menu-rey-desc");?></p>
+                             </div>
+                           </div>
+                         </li>
+                         <li>
+                          <div class="media">
+                            <div class="media-left">
+                                <img class="media-object" src="/img/hamburguesa-cheeseburger.png" alt="img">
+                            </div>
+                            <div class="media-body">
+                              <h4 class="media-heading">Cheeseburger <span class="numeros-fuente">2.0</span></h4>
+                              <span class="mu-menu-price">€8,5</span>
+                              <p><?php text("menu-cheese-desc");?></p>
+                            </div>
+                          </div>
+                        </li>
+                        <li>
+                         <div class="media">
+                           <div class="media-left">
+                               <img class="media-object" src="/img/hamburguesa-beety-miranda.png" alt="img">
+                           </div>
+                           <div class="media-body">
+                             <h4 class="media-heading">La beety miranda</h4>
+                             <span class="mu-menu-price">€9,5</span>
+                             <p><?php text("Salsa Beety, bacon, cebollino y queso cheddar");?></p>
+                             <p class="texto-naranja"><?php text("No podrás evitar subirla a Instragram");?></p>
+                           </div>
+                         </div>
+                       </li>
+                        </ul>
+                      </div>
+                    </div>
+                   <div class="col-md-6">
+                     <div class="mu-tab-content-right">
+                        <ul class="mu-menu-item-nav">
+                          <li>
+                            <div class="media">
+                              <div class="media-left">
+                                  <img class="media-object" src="/img/hamburguesa-caprichosa.png" alt="img">
+                              </div>
+                              <div class="media-body">
+                                <h4 class="media-heading">La caprichosa</h4>
+                                <span class="mu-menu-price">€10</span>
+                                <p><?php text("Queso cabra, mermelada de tomate y cebolla crunch");?></p>
+                                <p class="texto-naranja"><?php text("Ya se ha robado muchos corazones ... y estómagos");?></p>
+                              </div>
+                            </div>
+                          </li>
+                           <li>
+                            <div class="media">
+                              <div class="media-left">
+                                  <img class="media-object" src="/img/hamburguesa-catatumbo.png" alt="img">
+                              </div>
+                              <div class="media-body">
+                                <h4 class="media-heading">Catatumbo</h4>
+                                <span class="mu-menu-price">€13,5</span>
+                                <p><?php text("Pollo a la plancha, queso cheddar, costilla de cerdo a la barbacoa, queso mozzarella, queso caribeño, lechuga y tomate");?></p>
+                              </div>
+                            </div>
+                          </li>
+                           <li>
+                            <div class="media">
+                              <div class="media-left">
+                                  <img class="media-object" src="/img/hamburguesa-inglesa.png" alt="img">
+                              </div>
+                              <div class="media-body">
+                                <h4 class="media-heading">La inglesa</h4>
+                                <span class="mu-menu-price">€9</span>
+                                <p><?php text("Queso cheddar, bacon y huevo frito");?></p>
+                              </div>
+                            </div>
+                          </li>
+                          <li>
+                           <div class="media">
+                             <div class="media-left">
+                                 <img class="media-object" src="/img/hamburguesa-granadella.jpg" alt="img">
+                             </div>
+                             <div class="media-body">
+                               <h4 class="media-heading">La granadella</h4>
+                               <span class="mu-menu-price">€10,5</span>
+                               <p><?php text("Disco de macarrones con queso rebozado y salsa bacon");?></p>
+                               <p class="texto-naranja"><?php text("Pasta + burger = ¡si por favor!");?></p>
+                             </div>
+                           </div>
+                         </li>
+                         <li>
+                          <div class="media">
+                            <div class="media-left">
+                                <img class="media-object" src="/img/hamburguesa-taribaburger.png" alt="img">
+                            </div>
+                            <div class="media-body">
+                              <h4 class="media-heading">Táriba burger</h4>
+                              <span class="mu-menu-price">€11,5</span>
+                              <p><?php text("Esencia de romero, aceitunas negras, queso manchego y jamón serrano");?></p>
+                            </div>
+                          </div>
+                        </li>
+                        <li>
+                         <div class="media">
+                           <div class="media-left">
+                               <img class="media-object" src="/img/hamburguesa-tupake.png" alt="img">
+                           </div>
+                           <div class="media-body">
+                             <h4 class="media-heading">Tupake</h4>
+                             <span class="mu-menu-price">€10,5</span>
+                             <p><?php text("Queso de cabra, piña a la parrilla, cebolla morada y rúcula");?></p>
+                             <p class="texto-naranja"><?php text("Creada por @marga1960 ganadora del sorteo:<br>Hamburguesa de autor");?></p>
+                           </div>
+                         </div>
+                       </li>
                         </ul>
                      </div>
                    </div>
@@ -453,12 +392,25 @@
                           <li>
                             <div class="media">
                               <div class="media-left">
-                                <img class="media-object" src="/img/burgers/hamburguesa-campera.png" alt="img">
+                                  <img class="media-object" src="/img/hamburguesa-vegetariana.png" alt="img">
                               </div>
                               <div class="media-body">
-                                <h4 class="media-heading">Campera</h4>
-                                <span class="mu-menu-price">€9</span>
-                                <p><?php text("menu-campera-desc");?></p>
+                                <h4 class="media-heading"><?php text("Vegetariana");?></h4>
+                                <span class="mu-menu-price">€9,5</span>
+                                <p><?php text("menu-vege-desc");?></p>
+                                <p class="texto-naranja"><?php text("También la puedes hacer vegana haciéndola Areburger");?></p>
+                              </div>
+                            </div>
+                          </li>
+                           <li>
+                            <div class="media">
+                              <div class="media-left">
+                                  <img class="media-object" src="/img/hamburguesa-tenderburger.png" alt="img">
+                              </div>
+                              <div class="media-body">
+                                <h4 class="media-heading">Tender burger</h4>
+                                <span class="mu-menu-price">€8,5</span>
+                                <p><?php text("Tiras de pollo empanizadas y fritas, queso cheddar, salsa mielmostaza, tomate y lechuga");?></p>
                               </div>
                             </div>
                           </li>
@@ -471,12 +423,79 @@
                           <li>
                             <div class="media">
                               <div class="media-left">
-                                <img class="media-object" src="/img/hamburguesa-tenderburger.png" alt="img">
+                                  <img class="media-object" src="/img/hamburguesa-cesarburger.jpg" alt="img">
                               </div>
                               <div class="media-body">
-                                <h4 class="media-heading">Tender burger</h4>
+                                <h4 class="media-heading">César burger</h4>
                                 <span class="mu-menu-price">€8,5</span>
-                                <p><?php text("Tiras de pollo empanizadas y fritas, queso cheddar, salsa mielmostaza, tomate y lechuga");?></p>
+                                <p><?php text("Tiras de pechuga de pollo a la plancha, queso parmesano, bacon, lechuga y salsa césar");?></p>
+                              </div>
+                            </div>
+                          </li>
+                           <li>
+                            <div class="media">
+                              <div class="media-left">
+                                  <img class="media-object" src="/img/hamburguesa-michelena.png" alt="img">
+                              </div>
+                              <div class="media-body">
+                                <h4 class="media-heading">Michelena</h4>
+                                <span class="mu-menu-price">€10,5</span>
+                                <p><?php text("Carne mechada, chorizo, queso manchego, cebollino y chimichurri picante");?></p>
+                                <p class="texto-naranja"><?php text("Picante, jugosa y sabrosa");?></p>
+                              </div>
+                            </div>
+                          </li>
+                           <li>
+                            <div class="media">
+                              <div class="media-left">
+                                  <img class="media-object" src="/img/hamburguesa-costillita.png" alt="img">
+                              </div>
+                              <div class="media-body">
+                                <h4 class="media-heading">La costillita</h4>
+                                <span class="mu-menu-price">€9,5</span>
+                                <p><?php text("menu-costi-desc");?></p>
+                              </div>
+                            </div>
+                          </li>
+                        </ul>
+                     </div>
+                   </div>
+                 </div>
+               </div>
+              </div>
+              <div class="tab-pane fade " id="desserts">
+                <div class="mu-tab-content-area">
+                  <div class="row">
+                    <div class="col-md-6">
+                      <div class="mu-tab-content-left">
+                        <ul class="mu-menu-item-nav">
+                          <li>
+                            <div class="media">
+                              <div class="media-left">
+                                  <img class="media-object" src="/img/ensalada-cesar-con-pollo.png" alt="img">
+                              </div>
+                              <div class="media-body">
+                                <h4 class="media-heading">César con pollo</h4>
+                                <span class="mu-menu-price">€8,5</span>
+                                <p><?php text("Mezcla de lechugas, pan tostado en cuadritos, pollo troceado a la plancha, bacon, queso parmesano y aderezo césar");?></p>
+                              </div>
+                            </div>
+                          </li>
+                        </ul>
+                      </div>
+                    </div>
+                   <div class="col-md-6">
+                     <div class="mu-tab-content-right">
+                        <ul class="mu-menu-item-nav">
+                          <li>
+                            <div class="media">
+                              <div class="media-left">
+                                  <img class="media-object" src="/img/ensalada-padana.png" alt="img">
+                              </div>
+                              <div class="media-body">
+                                <h4 class="media-heading">La padana</h4>
+                                <span class="mu-menu-price">€8,5</span>
+                                <p><?php text("menu-padana-desc");?></p>
                               </div>
                             </div>
                           </li>
@@ -495,7 +514,7 @@
                           <li>
                             <div class="media">
                               <div class="media-left">
-                                <img class="media-object" src="/img/arepa-sifrina.png" alt="img">
+                                  <img class="media-object" src="/img/arepa-sifrina.png" alt="img">
                               </div>
                               <div class="media-body">
                                 <h4 class="media-heading">Sifrina</h4>
@@ -504,7 +523,19 @@
                               </div>
                             </div>
                           </li>
-                          <li>
+                           <li>
+                            <div class="media">
+                              <div class="media-left">
+                                  <img class="media-object" src="/img/arepa-rumbera-remix.jpg" alt="img">
+                              </div>
+                              <div class="media-body">
+                                <h4 class="media-heading">Rumbera remix</h4>
+                                <span class="mu-menu-price">€7</span>
+                                <p><?php text("Costilla de cerdo a la barbacoa al horno, troceado y braceada, y queso caribeño");?></p>
+                              </div>
+                            </div>
+                          </li>
+                           <li>
                             <div class="media">
                               <div class="media-left">
                                   <img class="media-object" src="/img/arepa-pelua.png" alt="img">
@@ -516,49 +547,13 @@
                               </div>
                             </div>
                           </li>
-                          <li>
-                            <div class="media">
-                              <div class="media-left">
-                                <img class="media-object" src="/img/burgers/arepa-despeinada.png" alt="img">
-                              </div>
-                              <div class="media-body">
-                                <h4 class="media-heading">Despeinada</h4>
-                                <span class="mu-menu-price">€7,5</span>
-                                <p><?php text("menu-despeinada-desc");?></p>
-                              </div>
-                            </div>
-                          </li>
-                          <li>
-                            <div class="media">
-                              <div class="media-left">
-                                <img class="media-object" src="/img/burgers/img-soon.jpg" alt="img">
-                              </div>
-                              <div class="media-body">
-                                <h4 class="media-heading">Isleña</h4>
-                                <span class="mu-menu-price">€7</span>
-                                <p><?php text("menu-isleña-desc");?></p>
-                              </div>
-                            </div>
-                          </li>
                         </ul>
                       </div>
                     </div>
                    <div class="col-md-6">
                      <div class="mu-tab-content-right">
                         <ul class="mu-menu-item-nav">
-                          <li>
-                            <div class="media">
-                              <div class="media-left">
-                                  <img class="media-object" src="/img/arepa-rumbera-remix.jpg" alt="img">
-                              </div>
-                              <div class="media-body">
-                                <h4 class="media-heading">la rumbera remix</h4>
-                                <span class="mu-menu-price">€7</span>
-                                <p><?php text("menu-rumbera-remix-desc");?></p>
-                              </div>
-                            </div>
-                          </li>
-                          <li>
+                           <li>
                             <div class="media">
                               <div class="media-left">
                                   <img class="media-object" src="/img/arepa-reina-pepiada.png" alt="img">
@@ -573,25 +568,24 @@
                           <li>
                             <div class="media">
                               <div class="media-left">
-                                  <img class="media-object" src="/img/burgers/arepa-domino.png" alt="img">
+                                  <img class="media-object" src="/img/arepa-llanera.png" alt="img">
                               </div>
                               <div class="media-body">
-                                <h4 class="media-heading">Dominó</h4>
-                                <span class="mu-menu-price">€7</span>
-                                <p><?php text("menu-domino-desc");?></p>
+                                <h4 class="media-heading">La llanera</h4>
+                                <span class="mu-menu-price">€7,5</span>
+                                <p><?php text("Carne picada y troceada en la plancha, y queso caribeño");?></p>
                               </div>
                             </div>
                           </li>
-                          <li>
+                           <li>
                             <div class="media">
                               <div class="media-left">
-                                  <img class="media-object" src="/img/burgers/arepa-coromoto.png" alt="img">
+                                  <img class="media-object" src="/img/arepa-tres-quesos.png" alt="img">
                               </div>
                               <div class="media-body">
-                                <h4 class="media-heading">Coromoto</h4>
+                                <h4 class="media-heading"><span class="numeros-fuente">3</span> <?php text("quesos");?></h4>
                                 <span class="mu-menu-price">€7</span>
-                                <p><?php text("menu-coromoto-desc");?></p>
-                                <p class="texto-naranja"><?php text("Creamos la arepa vegana");?></p>
+                                <p><?php text("Queso caribeño, queso mozzarella y queso cheddar");?></p>
                               </div>
                             </div>
                           </li>

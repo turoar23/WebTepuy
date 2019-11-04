@@ -56,7 +56,7 @@
   </head>
   <body>
   
-  <?php include('./popup.php'); ?>
+  <?php /*include('./popup.php'); */?>
 
   <!--START SCROLL TOP BUTTON -->
     <a class="scrollToTop" href="#">
