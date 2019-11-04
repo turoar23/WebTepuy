@@ -537,6 +537,7 @@
                                 <h4 class="media-heading">Isleña</h4>
                                 <span class="mu-menu-price">€7</span>
                                 <p><?php text("menu-isleña-desc");?></p>
+                                <p class="texto-naranja"><?php text("¿Me extrañabas?");?></p>
                               </div>
                             </div>
                           </li>

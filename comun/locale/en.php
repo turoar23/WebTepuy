@@ -88,6 +88,8 @@
       "menu-domino-desc" => "Frijoles negros y queso caribeño rallado",
       "menu-coromoto-desc" => "Frijoles negros, aguacate y plátano frito",
       "Creamos la arepa vegana" => "Creamos la arepa vegana",
+      "menu-isleña-desc" => "Carne mechada, queso caribeñoy plátano frito",
+      "¿Me extrañabas?" => "¿Me extrañabas?",
       // Reservation
       "Haz una" => "Make a",
       "Reserva" => "Reservation",
