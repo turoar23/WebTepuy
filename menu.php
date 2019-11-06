@@ -286,7 +286,7 @@
                           <li>
                             <div class="media">
                               <div class="media-left">
-                                  <img class="media-object" src="/img/hamburguesa-inglesa.png" alt="img">
+                                  <img class="media-object" src="/img/burgers/hamburguesa-inglesa.png" alt="img">
                               </div>
                               <div class="media-body">
                                 <h4 class="media-heading">La inglesa</h4>
@@ -310,13 +310,12 @@
                           <li>
                             <div class="media">
                               <div class="media-left">
-                                <img class="media-object" src="/img/hamburguesa-beety-miranda.png" alt="img">
+                                <img class="media-object" src="/img/burgers/hamburguesa-tovar.png" alt="img">
                               </div>
                               <div class="media-body">
-                                <h4 class="media-heading">La beety miranda</h4>
-                                <span class="mu-menu-price">€10</span>
-                                <p><?php text("Salsa Beety, bacon, cebollino y queso cheddar");?></p>
-                                <p class="texto-naranja"><?php text("La que arrasa en Instagram");?></p>
+                                <h4 class="media-heading">Tovar</h4>
+                                <span class="mu-menu-price">€12,5</span>
+                                <p><?php text("menu-tovar-desc");?></p>
                               </div>
                             </div>
                           </li>
@@ -354,12 +353,13 @@
                           <li>
                             <div class="media">
                               <div class="media-left">
-                                <img class="media-object" src="/img/burgers/hamburguesa-tovar.png" alt="img">
+                                <img class="media-object" src="/img/hamburguesa-beety-miranda.png" alt="img">
                               </div>
                               <div class="media-body">
-                                <h4 class="media-heading">Tovar</h4>
-                                <span class="mu-menu-price">€12,5</span>
-                                <p><?php text("menu-tovar-desc");?></p>
+                                <h4 class="media-heading">La beety miranda</h4>
+                                <span class="mu-menu-price">€10</span>
+                                <p><?php text("Salsa Beety, bacon, cebollino y queso cheddar");?></p>
+                                <p class="texto-naranja"><?php text("La que arrasa en Instagram");?></p>
                               </div>
                             </div>
                           </li>

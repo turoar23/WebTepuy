@@ -76,13 +76,16 @@
             <i class="fa fa-spoon"></i>
             <span class="mu-title-bar"></span>
           </div>
-          <div class="reservas-contenido" style="text-align:center">
-            <p>Por vacaciones del personal, temporalmente este establecimiento permanecerá cerrado</p>
-            <p>Nuestro otro local estará abierto de manera normal. Puedes reservar con el siguiente botón:</p>
-            <div class="reservation-btn-responsive">
-              <a href=<?php text("/restaurante/garbinet");?> class="mu-reservation-btn"><?php text("Reservar");?></a>
+          <div class="reservas-contenido">
+            <iframe title="Reservas" src="https://www.covermanager.com/reservation/module_restaurant/Tepuy-Burger-Bazan-Alicante/<?php text("spanish");?>" frameborder="0" height="550" width="100%"></iframe>
+            <script type="text/javascript" src="https://www.covermanager.com/js/iframeResizer.min.js"></script>
+            <script type="text/javascript">iFrameResize();</script>
+            <p style="text-align:center">
+              <?php text("Para reservas de más de 6 personas, llamar al número");?> <a href="tel:+34670113435" class="cell-local">670 11 34 35</a>
+            </p>
+            <div class="google-maps">
+              <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3129.1153489649814!2d-0.48869088529873683!3d38.34631217965947!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd6237508b12c8ff%3A0x1f7c387706f11db6!2sTepuy+Burger!5e0!3m2!1ses!2ses!4v1557243087693!5m2!1ses!2ses" width="400" height="300" frameborder="0" style="border:0" allowfullscreen></iframe>
             </div>
-            <p>Lamentamos las molestias</p>
           </div>
         </div>
       </div>
