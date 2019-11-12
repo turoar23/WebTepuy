@@ -122,7 +122,7 @@
                           <li>
                             <div class="media">
                               <div class="media-left">
-                                <img class="media-object" src="/img/burgers/img-soon.jpg" alt="img">
+                                <img class="media-object" src="/img/entrantes/entrante-provocativos.png" alt="img">
                              </div>
                              <div class="media-body">
                                <h4 class="media-heading">Los provocativos</h4>
@@ -146,7 +146,7 @@
                           <li>
                             <div class="media">
                               <div class="media-left">
-                                <img class="media-object" src="/img/burgers/img-soon.jpg" alt="img">
+                                <img class="media-object" src="/img/entrantes/entrante-trio-empanaditas.png" alt="img">
                               </div>
                               <div class="media-body">
                                 <h4 class="media-heading">Trio de empanaditas</h4>
@@ -158,7 +158,7 @@
                           <li>
                             <div class="media">
                               <div class="media-left">
-                                <img class="media-object" src="/img/burgers/img-soon.jpg" alt="img">
+                                <img class="media-object" src="/img/entrantes/entrante-arepitas.png" alt="img">
                               </div>
                               <div class="media-body">
                                 <h4 class="media-heading">Mini arepitas</h4>
@@ -176,7 +176,7 @@
                           <li>
                             <div class="media">
                               <div class="media-left">
-                                <img class="media-object" src="/img/burgers/img-soon.jpg" alt="img">
+                                <img class="media-object" src="/img/entrantes/entrante-trio-criollo.png" alt="img">
                               </div>
                               <div class="media-body">
                                 <h4 class="media-heading">Trío criollo</h4>
