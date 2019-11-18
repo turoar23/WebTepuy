@@ -34,7 +34,8 @@
       "Nuestro menú" => "Our menu",
       "Entrantes" => "Starters",
       "Hamburguesas" => "Burgers",
-      "Pollo" => "Chicken",
+      "Hamburguesas de pollo" => "Chicken burgers",
+      "Menú del dia" => "Day menu",
       "Patatas fritas con bacon y cheddar" => "French fries with bacon and cheddar",
       "menu-nachos-desc" => "With guacamole, pico de gallo, jalapeños, minced beef meat, homemade cheese sauce and sour cream for spread.",
       "Tiras de pechuga de pollo empanizadas y fritas" => "Breaded and fried chicken breast strips",
@@ -90,6 +91,7 @@
       "Creamos la arepa vegana" => "Creamos la arepa vegana",
       "menu-isleña-desc" => "Carne mechada, queso caribeñoy plátano frito",
       "¿Me extrañabas?" => "¿Me extrañabas?",
+      "/img/menu-dia/nuevo/menu-es.jpg" => "/img/menu-dia/nuevo/menu-en.jpg",
       // Reservation
       "Haz una" => "Make a",
       "Reserva" => "Reservation",

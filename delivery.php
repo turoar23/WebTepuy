@@ -81,7 +81,7 @@
           <div class="mu-contact-content">
             <div class="row align-items-center">
               <div class="col-md-3 delivery right">
-                <a class = "delivery-img" href="https://glovoapp.com/es/tepuy/" target="_blank">
+                <a class = "delivery-img" href="https://glovoapp.com/es-es/alc/store/tepuy/" target="_blank">
                   <img src="/img/delivery/glovo-logo.jpg">
                 </a>
               </div>
