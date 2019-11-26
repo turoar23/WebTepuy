@@ -20,9 +20,7 @@
     <link rel="stylesheet" type="text/css" href="/assets/css/bootstrap-datepicker.css">
     <!-- Fancybox slider -->
     <link rel="stylesheet" href="/assets/css/jquery.fancybox.css" type="text/css" media="screen" />
-    <!-- Theme color -->
-    <link id="switcher" href="/assets/css/theme-color/default-theme.css" rel="stylesheet">
-
+    
     <!-- Main style sheet -->
     <link rel="stylesheet" href="/css/style.css">
     <link rel="stylesheet" media="(max-width:799px)" href="/css/style-small.css">

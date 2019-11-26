@@ -20,9 +20,7 @@
     <!-- Date Picker -->
     <link rel="stylesheet" type="text/css" href="/assets/css/bootstrap-datepicker.css">
     <!-- Fancybox slider -->
-    <link rel="stylesheet" href="/assets/css/jquery.fancybox.css" type="text/css" media="screen" />
-    <!-- Theme color -->
-    <link id="switcher" href="/assets/css/theme-color/default-theme.css" rel="stylesheet">
+    <link rel="stylesheet" href="/assets/css/jquery.fancybox.css" type="text/css" media="screen" /> 
 
     <!-- Main style sheet -->
     <link rel="stylesheet" href="/css/style.css">
@@ -109,7 +107,7 @@
                           <li>
                             <div class="media">
                               <div class="media-left">
-                                <img class="media-object" src="/img/nachos.jpg" alt="img">
+                                <img class="media-object" src="/img/entrantes/entrante-nachos.png" alt="img">
                               </div>
                               <div class="media-body">
                                 <h4 class="media-heading">Nachos Anaya</h4>
@@ -188,7 +186,7 @@
                           <li>
                             <div class="media">
                               <div class="media-left">
-                                <img class="media-object" src="/img/alitas-de-pollo.png" alt="img">
+                                <img class="media-object" src="/img/entrantes/entrante-alitas.png" alt="img">
                               </div>
                               <div class="media-body">
                                 <h4 class="media-heading"><?php text("Alitas de pollo");?></h4>
@@ -236,7 +234,7 @@
                           <li>
                            <div class="media">
                              <div class="media-left">
-                               <img class="media-object" src="/img/tequemix.png" alt="img">
+                               <img class="media-object" src="/img/entrantes/entrante-tequemix.png" alt="img">
                              </div>
                              <div class="media-body">
                                <h4 class="media-heading">Tequemix</h4>
