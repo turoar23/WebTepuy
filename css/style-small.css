@@ -25,6 +25,12 @@
   margin-right: auto;
   width: 80%;
 }
+#mu-about-us .row{
+  margin:0px;
+}
+#mu-about-us .mu-back{
+  margin-top: 5%;
+}
 #mu-counter-menu img{
   padding-top: 5em;
   background-color: black;
