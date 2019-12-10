@@ -335,9 +335,9 @@
                                   <img class="media-object" src="/img/burgers/hamburguesa-avoicator.png" alt="img">
                               </div>
                               <div class="media-body">
-                                <h4 class="media-heading">Avoicator</h4>
+                                <h4 class="media-heading">Avocaitor</h4>
                                 <span class="mu-menu-price">€11,2</span>
-                                <p><?php text("menu-avoicator-desc");?></p>
+                                <p><?php text("menu-avocaitor-desc");?></p>
                                 <p class="texto-naranja"><?php text("Sabemos que deseas aguacate");?></p>
                               </div>
                             </div>

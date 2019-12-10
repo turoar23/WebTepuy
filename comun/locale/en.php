@@ -80,7 +80,7 @@
       "menu-ensalada-provolone-desc" => "Bolitas de provolone frito, aderezo dulce, mix de lechugas y nueces",
       "menu-corleone-desc" => "Tomate con hierbas provenzales, queso provolone empanizado y salsa pesto",
       "No hablamos de negocios en la mesa" => "No hablamos de negocios en la mesa",
-      "menu-avoicator-desc" => "Base de queso crema, aguacate, crujiente de plátano macho, queso caribeño rallado y salsa Maracuucha",
+      "menu-avocaitor-desc" => "Base de queso crema, aguacate, crujiente de plátano macho, queso caribeño rallado y salsa Maracuucha",
       "Sabemos que deseas aguacate" => "Sabemos que deseas aguacate",
       "menu-tovar-desc" => "Salsa Equis, cebolla frita, queso cheddar, bacon, salchicha a la parrilla y salsa queso ahumado",
       "menu-habanera-desc" => "Queso caribeño, carne mechada y plátanos fritos bañados en una reducción de jugo de caña de azúcar ron",
