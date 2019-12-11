@@ -68,6 +68,6 @@
     "menu-domino-desc" => "Frijoles negros y queso caribeño rallado",
     "menu-coromoto-desc" => "Frijoles negros, aguacate y plátano frito",
     "Creamos la arepa vegana" => "Creamos la arepa vegana",
-    "menu-isleña-desc" => "Carne mechada, queso caribeñoy plátano frito",
+    "menu-isleña-desc" => "Carne mechada, queso caribeño y plátano frito",
   );
 ?>

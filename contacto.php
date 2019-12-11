@@ -95,26 +95,6 @@
                 </div>
               </div>
             </div>
-            <div class="row">
-              <div class="col-md-6">
-                <div class="mu-contact-left">
-                  <div class="mu-contact-widget">
-                    <h3>Tepuy Burger Garbinet</h3>
-                    <p><span class="numeros-fuente">Avinguda Periodista Rodolfo de Salazar, 29, Alicante</span></p>
-                    <p><span class="numeros-fuente">689 61 30 51</span></p>
-                  </div>
-                </div>
-              </div>
-              <div class="col-md-6">
-                <div class="mu-contact-right" style="margin-top:20px;">
-                  <div class="mu-contact-widget">
-                    <h3>Tepuy Burger Bazan</h3>
-                    <p>Calle Bazan, 47, Alicante</p>
-                    <p>670 11 34 35</p>
-                  </div>
-                </div>
-              </div>
-            </div>
           </div>
         </div>
       </div>

@@ -91,6 +91,11 @@
 .mu-reservation-content .reservation-btn-normal{
   display:none;
 }
+#mu-contact .mu-contact-area .mu-contact-content .mu-contact-left,
+#mu-contact .mu-contact-area .mu-contact-content .mu-contact-right{
+  text-align: center;
+  margin-bottom: 5%;;
+}
 /**/
 @media (max-width: 480px) {
   #mu-slider .mu-slider-area .mu-top-slider .mu-top-slider-single .mu-top-slider-content {
@@ -243,15 +248,6 @@
   #mu-latest-news .mu-latest-news-area .mu-latest-news-content .mu-news-single .mu-news-single-content .mu-meta-nav li {
     padding: 0 5px;
   }
-
-  #mu-contact .mu-contact-area .mu-contact-content .mu-contact-right {
-    text-align: center;
-  }
-
-  #mu-contact .mu-contact-area .mu-contact-content .mu-contact-left {
-    text-align: center;
-  }
-
   #mu-contact .mu-contact-area .mu-contact-content .mu-contact-right .mu-contact-widget address {
     text-align: left;
   }

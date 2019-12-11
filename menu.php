@@ -370,7 +370,6 @@
                                 <h4 class="media-heading">La gloriosa</h4>
                                 <span class="mu-menu-price">€10,5</span>
                                 <p><?php text("menu-gloriosa-desc");?></p>
-                                <p class="texto-naranja"><?php text("Una fusión en tu paladar");?></p>
                               </div>
                             </div>
                           </li>

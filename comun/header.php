@@ -21,7 +21,6 @@
           <li><a href=<?php text('/reservas');?>><?php text('Reservar')?></a></li>
           <!--<li><a href="#mu-chef">Nuestro equipo</a></li>-->
           <li><a href=<?php text('/delivery');?>><?php text('Para llevar')?></a></li>
-          <li><a href=<?php text('/contacto');?>><?php text('Contacto')?></a></li>
           <li class="dropdown">
               <a class="dropdown-toggle" data-toggle="dropdown" href=<?php text("/");?>><?php text("ES");?></a>
               <ul class="dropdown-menu" role="menu">  
