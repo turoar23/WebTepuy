@@ -29,6 +29,7 @@
 #FOOTER SECTION
 #RESPONSIVE DESIGN
 */
+@import "style-popup.css";
 /* BASE - Base tyles, Variables, Mixins, etc. */
 body {
   background-color: #fd9d10;
@@ -146,6 +147,7 @@ img {
 .mu-send-btn:hover, .mu-send-btn:focus {
   color: #fff;
 }
+
 /* LAYOUTS - Page layout styles */
 /*==================
  HEADER SECTION
@@ -193,6 +195,7 @@ img {
 }
 .mu-main-navbar .navbar-header .navbar-brand {
   padding: 0;
+  padding-left: 1%;
   /*height: 50px;
   width: 80px;*/
   -webkit-transition: all 0.5s;
@@ -276,6 +279,9 @@ img {
   top: 45%;
 }
 
+.cc-revoke, .cc-window{
+  z-index: 1000;
+}
 /*==================
 	SLIDER SECTION
 ====================*/

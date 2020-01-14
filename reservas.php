@@ -1,3 +1,4 @@
+<?php include('./comun/before.php'); ?>
 <!DOCTYPE html>
 <?php include('./comun/language.php'); ?>
   <head>
@@ -22,6 +23,9 @@
     <!-- Canonical link -->
     <link rel="canonical" href="https://tepuyburger.es/reservas" />
 
+    <!-- Cookies -->
+    <?php include('./comun/cookies.php');?>
+
     <!-- Main style sheet -->
     <link rel="stylesheet" href="/css/style.css">
     <link rel="stylesheet" media="(max-width:799px)" href="/css/style-small.css">
@@ -31,13 +35,14 @@
     <link href='https://fonts.googleapis.com/css?family=Tangerine' rel='stylesheet' type='text/css'>
     <link href='https://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
     <link href='https://fonts.googleapis.com/css?family=Prata' rel='stylesheet' type='text/css'>
-
-    <?php include('./comun/cookies.php');?>
     
   </head>
   <body>
 
   <?php include('./comun/windowcookies.php');?>
+
+  <?php include('./popup.php'); ?>
+
   <!--START SCROLL TOP BUTTON -->
     <a class="scrollToTop" href="#">
       <i class="fa fa-angle-up"></i>
@@ -75,7 +80,7 @@
                   </p>
                   <p>
                     <span class="fa fa-phone"></span>
-                    <span class="numeros-fuente"><a href="tel:+34689613051" class="cell">689 61 30 51</a></span>
+                    <span class="numeros-fuente"><a href="tel:+34689613051" class="cell">(+34) 689 61 30 51</a></span>
                   </p>
                   <div class="reservation-btn-normal">
                     <a href=<?php text("/restaurante/garbinet");?> class="mu-reservation-btn"><?php text("Reservar");?></a>
@@ -102,7 +107,7 @@
                   </p>
                   <p>
                     <span class="fa fa-phone"></span>
-                    <span class="numeros-fuente"><a href="tel:+34670113435" class="cell">670 11 34 35</a></span>
+                    <span class="numeros-fuente"><a href="tel:+34670113435" class="cell">(+34) 670 11 34 35</a></span>
                   </p>
                   <div class="reservation-btn-normal">
                     <a href=<?php text("/restaurante/centro");?> class="mu-reservation-btn"><?php text("Reservar");?></a>
@@ -146,6 +151,7 @@
 <script type="text/javascript" src="/assets/js/jquery.fancybox.pack.js"></script>
 <!-- Custom js -->
 <script src="/assets/js/custom.js"></script>
+<script src="/assets/js/popup.js"></script>
 
 </body>
 </html>

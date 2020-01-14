@@ -1,3 +1,4 @@
+<?php include('./comun/before.php'); ?>
 <!DOCTYPE html>
 <?php include('./comun/language.php'); ?>
   <head>
@@ -26,9 +27,11 @@
     <!-- Canonical link -->
     <link rel="canonical" href="https://tepuyburger.es/" />
 
+    <!-- Cookies -->
+    <?php include('./comun/cookies.php');?>
+
     <!-- Main style sheet -->
     <link rel="stylesheet" href="/css/style.css">
-    <link rel="stylesheet" href="/css/style-popup.css">
     
     <link rel="stylesheet" media="(max-width:799px)" href="/css/style-small.css">
     <link rel="stylesheet" media="(min-width:800px)" href="/css/style-large.css">
@@ -37,15 +40,13 @@
     <link href='https://fonts.googleapis.com/css?family=Tangerine' rel='stylesheet' type='text/css'>
     <link href='https://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
     <link href='https://fonts.googleapis.com/css?family=Prata' rel='stylesheet' type='text/css'>
-
-    <?php include('./comun/cookies.php');?>
     
   </head>
   <body>
 
   <?php include('./comun/windowcookies.php');?>
 
-  <?php /*include('./popup.php'); */?>
+  <?php include('./popup.php'); ?>
 
   <!--START SCROLL TOP BUTTON -->
     <a class="scrollToTop" href="#">

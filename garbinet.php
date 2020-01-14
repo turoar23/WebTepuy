@@ -1,3 +1,4 @@
+<?php include('./comun/before.php'); ?>
 <!DOCTYPE html>
 <?php include('./comun/language.php'); ?>
   <head>
@@ -22,6 +23,9 @@
     <!-- Canonical link -->
     <link rel="canonical" href="https://tepuyburger.es/restaurante/garbinet" />
 
+    <!-- Cookies -->
+    <?php include('./comun/cookies.php');?>
+
     <!-- Main style sheet -->
     <link rel="stylesheet" href="/css/style.css">
     <link rel="stylesheet" media="(max-width:799px)" href="/css/style-small.css">
@@ -31,13 +35,14 @@
     <link href='https://fonts.googleapis.com/css?family=Tangerine' rel='stylesheet' type='text/css'>
     <link href='https://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
     <link href='https://fonts.googleapis.com/css?family=Prata' rel='stylesheet' type='text/css'>
-
-    <?php include('./comun/cookies.php');?>
     
   </head>
   <body>
 
   <?php include('./comun/windowcookies.php');?>
+
+  <?php include('./popup.php'); ?>
+  
   <!--START SCROLL TOP BUTTON -->
     <a class="scrollToTop" href="#">
       <i class="fa fa-angle-up"></i>
@@ -68,7 +73,7 @@
             <script type="text/javascript" src="https://www.covermanager.com/js/iframeResizer.min.js"></script>
             <script type="text/javascript">iFrameResize();</script>
             <p style="text-align:center">
-              <?php text("Para reservas de más de 11 personas, llamar al número");?> <a href="tel:+34689613051" class="cell-local">689 61 30 51</a>
+              <?php text("Para reservas de más de 11 personas, llamar al número");?> <a href="tel:+34689613051" class="cell-local">(+34) 689 61 30 51</a>
             </p>
             <div class="google-maps">
               <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3128.407957504271!2d-0.4806276852981068!3d38.362682979656725!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd623708bc5eca99%3A0x272d0a5db8b66c84!2sTepuy+Burger!5e0!3m2!1ses!2ses!4v1557242709306!5m2!1ses!2ses" width="400" height="300" frameborder="0" style="border:0" allowfullscreen></iframe>
@@ -101,6 +106,7 @@
 
 <!-- Custom js -->
 <script src="/assets/js/custom.js"></script>
+<script src="/assets/js/popup.js"></script>
 
 </body>
 </html>
