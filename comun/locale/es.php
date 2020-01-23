@@ -58,7 +58,7 @@
     "menu-ensalada-provolone-desc" => "Bolitas de provolone frito, aderezo dulce, mix de lechugas y nueces",
     "menu-corleone-desc" => "Tomate con hierbas provenzales, queso provolone empanizado y salsa pesto",
     "menu-gloriosa-desc" => "Mostaza Dijon, cebolla pochada a la plancha, queso caribeño y tomate",
-    "menu-avocaitor-desc" => "Base de queso crema, aguacate, crujiente de plátano macho, queso caribeño rallado y salsa Maracuucha",
+    "menu-avocaitor-desc" => "Base de queso crema, aguacate, crujiente de plátano macho, queso caribeño rallado y salsa Maracucha",
     "menu-tovar-desc" => "Salsa Equis, cebolla frita, queso cheddar, bacon, salchicha a la parrilla y salsa queso ahumado",
     "menu-habanera-desc" => "Queso caribeño, carne mechada y plátanos fritos bañados en una reducción de jugo de caña de azúcar ron",
     "menu-ei-ou-desc" => "Dos carnes de 180 gr. de ternera gallega, lechuga, costilla de cerdo horneada y deshilachada, queso cheddar, tomate, bacon, huevo, salsa de queso casera y cebolla frita",

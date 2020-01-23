@@ -3,7 +3,7 @@
   display: none; /* Hidden by default */
   position: fixed; /* Stay in place */
   z-index: 2000; /* Sit on top */
-  padding-top: 100px; /* Location of the box */
+  /*padding-top: 15vh;*/ /* Location of the box */
   left: 0;
   top: 0;
   width: 100%; /* Full width */
@@ -11,7 +11,7 @@
   overflow: auto; /* Enable scroll if needed */
   background-color: rgb(0,0,0); /* Fallback color */
   background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
-  animation:animatetop 0.4s
+  animation:animatetop 0.4s;
 }
 @keyframes animatetop{
   from{
@@ -27,9 +27,14 @@
 .modal-content {
   /*background-color: #fefefe;*/
   margin: auto;
+  top: 50%;
+  -ms-transform: translateY(-50%);
+  transform: translateY(-50%);
   /*padding: 20px;
   border: 1px solid #888;*/
   width: 80%;
+  border-radius: 1%;
+  background-color: #ffb422;
 }
 
 /* The Close Button */
@@ -40,6 +45,7 @@
   right: 1%;
   font-size: 28px;
   font-weight: bold;
+  opacity: .9;
 }
 .close:hover,
 .close:focus {
@@ -49,5 +55,20 @@
 }
 .modal img{
   width: 100%;
-  border-radius: 1%; 
+  border-radius: 1% 1% 0% 0%;
+}
+.modal p{
+  color: black;
+  font-size: 0.9rem;
+  padding: 1%;
+  margin: 0;
+  text-align: center;
+}
+.modal .limitado{
+  font-size: 1.3rem;
+}
+@media (min-width: 800px) {
+  .modal p:not(.limitado){
+    display: none;
+  }
 }

@@ -81,7 +81,7 @@
       "menu-ensalada-provolone-desc" => "Small fried provolone balls, sweet dressing, mix of lettuces and walnuts",
       "menu-corleone-desc" => "Tomato with Provençal herbs, breaded provolone cheese and pesto sauce",
       "No hablamos de negocios en la mesa" => "We don't discuss business at the table",
-      "menu-avocaitor-desc" => "Cream cheese, avocado, crispy male banana, grated Caribbean cheese and maracucha sauce",
+      "menu-avocaitor-desc" => "Cream cheese, avocado, crispy male banana, grated Caribbean cheese and Maracucha sauce",
       "Sabemos que deseas aguacate" => "We know you want avocado",
       "menu-tovar-desc" => "Equis sauce, fried onion, cheddar cheese, bacon, grilled sausage and smoked cheese sauce.",
       "menu-habanera-desc" => "Caribbean cheese, meatloaf and fried bananas bathed in a reduction of sugarcane juice and rum",
