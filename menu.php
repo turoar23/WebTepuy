@@ -72,16 +72,17 @@
           </div>
           <div class="mu-restaurant-menu-content">
             <ul class="nav nav-tabs mu-restaurant-menu">
-              <li class="active"><a href="#breakfast" data-toggle="tab"><?php text("Entrantes");?></a></li>
-              <li><a href="#meals" data-toggle="tab"><?php text("Hamburguesas");?></a></li>
-              <li><a href="#snacks" data-toggle="tab"><?php text("Hamburguesas de pollo");?></a></li>
-              <li><a href="#drinks" data-toggle="tab">Arepas</a></li>
+              <li  class="active"><a href="#especial" data-toggle="tab">Especial</a></li>
+              <li><a href="#entrantes" data-toggle="tab"><?php text("Entrantes");?></a></li>
+              <li><a href="#burgers" data-toggle="tab"><?php text("Hamburguesas");?></a></li>
+              <li><a href="#burgers-pollo" data-toggle="tab"><?php text("Hamburguesas de pollo");?></a></li>
+              <li><a href="#arepas" data-toggle="tab">Arepas</a></li>
               <li><a href="#menu-del-dia" data-toggle="tab"><?php text("Menú del dia");?></a></li>
             </ul>
 
             <!-- Tab panes -->
             <div class="tab-content">
-              <div class="tab-pane fade in active" id="breakfast">
+              <div class="tab-pane fade " id="entrantes">
                 <div class="mu-tab-content-area">
                   <div class="row">
                     <div class="col-md-6">
@@ -243,7 +244,7 @@
                  </div>
                </div>
               </div>
-              <div class="tab-pane fade " id="meals">
+              <div class="tab-pane fade " id="burgers">
                 <div class="mu-tab-content-area">
                   <div class="row">
                     <div class="col-md-6">
@@ -435,7 +436,7 @@
                  </div>
                </div>
               </div>
-              <div class="tab-pane fade " id="snacks">
+              <div class="tab-pane fade " id="burgers-pollo">
                 <div class="mu-tab-content-area">
                   <div class="row">
                     <div class="col-md-6">
@@ -477,7 +478,7 @@
                  </div>
                </div>
               </div>
-              <div class="tab-pane fade " id="drinks">
+              <div class="tab-pane fade " id="arepas">
                 <div class="mu-tab-content-area">
                   <div class="row">
                     <div class="col-md-6">
@@ -597,6 +598,31 @@
                 <div class="mu-tab-content-area">
                   <div class="row" style="width:100%;">
                     <img class="menu-dia" style="margin-left:15px;" src=<?php text("/img/menu-dia/nuevo/menu-es.jpg");?>>
+                   </div>
+                 </div>
+               </div>
+               <div class="tab-pane fade in active" id="especial">
+                <div class="mu-tab-content-area">
+                  <div class="row">
+                    <div class="col-md-6">
+                      <div class="mu-tab-content-left">
+                        <ul class="mu-menu-item-nav">
+                          <li>
+                            <div class="media">
+                              <div class="media-left">
+                                <img class="media-object" src="/img/anuncios/kong.png" alt="img">
+                              </div>
+                              <div class="media-body">
+                                <h4 class="media-heading">Kong</h4>
+                                <span class="mu-menu-price">€12,9</span>
+                                <p>Salsa Equis, 180 gr de ternera gallega, crema de queso, bacon, huevo frito y nuestros súper aros de cebolla caseros</p>
+                                <p class="texto-naranja">Solo del 24 de enero hasta el 9 de febrero</p>
+                                <p class="texto-naranja">¡No te lo puedes perder!</p>
+                              </div>
+                            </div>
+                          </li>
+                        </ul>
+                     </div>
                    </div>
                  </div>
                </div>

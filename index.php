@@ -9,6 +9,7 @@
     <meta name="description" content="Tepuy Burger es un restaurante de hamburguesas y arepas en Alicante, España. Optamos por una comida de calidad y casera, cuidando cada detalle para que cada visita sea una experiencia diferente">
     <meta name="keywords" content="Tepuy, Tepuy Burger, tepuy,tepuyburger, tepuy burger, hamburguesas, mejores hamburguesas alicante, hamburgueseria, arepas, entrantes, hamburguesas en España, hamburguesas en alicante, hamburguesas delivery, hamburguesas delivery España, hamburguesas delivery alicante, Restaurante en España, Restaurante en alicante, Restaurante delivery, Restaurante delivery en España, Restaurante delivery alicante, arepas en España, arepas en alicante, arepas delivery, arepas delivery España, arepas delivery alicante, postres España, postres en alicante, postres delivery, postres delivery en España, postres delivery en alicante.">
     <meta name="author" content="Tepuy Burger SL">
+    
     <!-- Favicon -->
     <link rel="shortcut icon" href="/assets/img/favicon.ico" type="image/x-icon">
 

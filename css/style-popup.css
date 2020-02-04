@@ -72,3 +72,8 @@
     display: none;
   }
 }
+.mu-readmore-btn{
+  position: absolute;
+  bottom: 0;
+  margin: auto;
+}

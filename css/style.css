@@ -148,6 +148,14 @@ img {
   color: #fff;
 }
 
+.mu-blocked-btn {
+  background-color: transparent;
+  border: 1px solid #ccc;
+  display: inline-block;
+  font-size: 16px;
+  padding: 10px 18px;
+}
+
 /* LAYOUTS - Page layout styles */
 /*==================
  HEADER SECTION
@@ -1462,6 +1470,7 @@ RESERVATION SECTION
   float: left;
   margin-top: 30px;
   width: 100%;
+  margin-bottom: 5%;
 }
 #mu-contact .mu-contact-area .mu-contact-content .mu-contact-left {
   display: inline;
@@ -1650,7 +1659,7 @@ RESERVATION SECTION
   font-family: typo-round !important;
   line-height:140%;
 }
-.delivery{
+.delivery, .pickup{
   text-align: center;
 }
 .delivery img{
@@ -1663,6 +1672,13 @@ RESERVATION SECTION
 }
 .menu-dia{
   width: 100%;
+}
+.pickup h2{
+  font-size: 35px;
+}
+.pickup .img-pickup{
+  height: 100%;
+  max-width: 100%;
 }
 /*==================
  RESPONSIVE DESIGN

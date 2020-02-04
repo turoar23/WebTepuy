@@ -111,6 +111,10 @@
       "Viernes y sábado de 13:00-16:00 y de 20:00-00:00" => "Friday and saturday from 13:00 to 16:00 and from 20:00 to 00:00",
       // Delivery
       "Pide ya para casa" => "Order to your home now",
-      "Con" => "With"
+      "Con" => "With",
+      "Para recoger en el restaurante" => "To pick up at the restaurant",
+      "Próximamente" => "Soon",
+      "Para recoger en" => "To be picked up at",
+      "Deberás ir al restaurante a la hora indicada para recoger tu pedido" => "You must go to the restaurant at the appointed time to pick up your order",
   );
 ?>

@@ -10,6 +10,7 @@
     <meta name="author" content="Tepuy Burger SL">
     <meta name="keywords" content="tepuy burger a casa, delivery, deliveroo, glovo, just eat, para comer en casa, burger a domicilio, hamburguesa a domicilio
     comida a domicilio, pedir para casa">
+
     <!-- Favicon -->
     <link rel="shortcut icon" href="/assets/img/favicon.ico" type="image/x-icon">
 
@@ -23,6 +24,8 @@
     <link rel="stylesheet" type="text/css" href="/assets/css/bootstrap-datepicker.css">
     <!-- Fancybox slider -->
     <link rel="stylesheet" href="/assets/css/jquery.fancybox.css" type="text/css" media="screen" />
+    <!-- Theme color -->
+    <link id="switcher" href="/assets/css/theme-color/default-theme.css" rel="stylesheet">
     <!-- Canonical link -->
     <link rel="canonical" href="https://tepuyburger.es/delivery" />
     
@@ -65,6 +68,26 @@
     <div class="row">
       <div class="col-md-12">
         <div class="mu-contact-area">
+          <!-- Recoger -->
+          <div class="mu-title">
+            <span class="mu-subtitle"><?php text("Para recoger en el restaurante");?>*</span></p>
+            *<?php text("Deberás ir al restaurante a la hora indicada para recoger tu pedido");?>
+          </div>
+          <div class="mu-contact-content">
+            <div class="row align-items-center">
+              <div class="col-md-6 pickup middle">
+                <h2>Tepuy Burger Garbinet</h2>
+                <img class="img-pickup" src="/img/restaurante/garbinet.jpg"></p>
+                <span class="mu-reservation-btn" data-glf-cuid="c8dd7e3b-97ca-4af9-88a1-d14c3320ff05" data-glf-ruid="ba6c5ab1-f126-41a1-aab3-41b376b908ee" ><?php text("Para recoger en");?> Garbinet</span>
+              </div>
+              <div class="col-md-6 pickup middle">
+                <h2>Tepuy Burger <?php text("Centro");?></h2>
+                <img class="img-pickup" src="/img/restaurante/centro.jpg"></p>
+                <span class="mu-blocked-btn"><?php text("Próximamente");?></span>
+              </div>
+            </div>
+          </div>
+          <!-- Deliverys -->
           <div class="mu-title">
             <span class="mu-subtitle"><?php text("Pide ya para casa");?></span>
             <h1><?php text("Con");?></h1>
@@ -129,6 +152,9 @@
 <!-- Custom js -->
 <script src="/assets/js/custom.js"></script>
 <script src="/assets/js/popup.js"></script>
+
+<!-- Para recoger -->
+<script src="https://www.fbgcdn.com/embedder/js/ewm2.js" defer async ></script>
 
 </body>
 </html>
