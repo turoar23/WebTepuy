@@ -69,7 +69,7 @@
       <div class="col-md-12">
         <div class="mu-contact-area">
           <!-- Recoger -->
-          <div class="mu-title">
+          <!--<div class="mu-title">
             <span class="mu-subtitle"><?php text("Para recoger en el restaurante");?>*</span></p>
             *<?php text("Deberás ir al restaurante a la hora indicada para recoger tu pedido");?>
           </div>
@@ -86,7 +86,7 @@
                 <span class="mu-blocked-btn"><?php text("Próximamente");?></span>
               </div>
             </div>
-          </div>
+          </div>-->
           <!-- Deliverys -->
           <div class="mu-title">
             <span class="mu-subtitle"><?php text("Pide ya para casa");?></span>
