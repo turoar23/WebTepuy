@@ -64,7 +64,7 @@
     "menu-ei-ou-desc" => "Dos carnes de 180 gr. de ternera gallega, lechuga, costilla de cerdo horneada y deshilachada, queso cheddar, tomate, bacon, huevo, salsa de queso casera y cebolla frita",
     "menu-campera-desc" => "Lechuga, tomate, pollo, queso cheddar, vegetales salteados y bacon",
     "menu-despeinada-desc" => "Queso crema, carne mechada y pico de gallo",
-    "menu-rumbera-remix-desc" => "Barbecue pork rib in the oven, sliced and braised, and caribbean cheese",
+    "menu-rumbera-remix-desc" => "Costilla de cerdo barbacoa al horno deshilachada y queso caribeño",
     "menu-domino-desc" => "Frijoles negros y queso caribeño rallado",
     "menu-coromoto-desc" => "Frijoles negros, aguacate y plátano frito",
     "Creamos la arepa vegana" => "Creamos la arepa vegana",
