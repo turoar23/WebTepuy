@@ -90,7 +90,7 @@
                           <li>
                             <div class="media">
                               <div class="media-left">
-                                <img class="media-object" src="/img/patatas-bacon.png" alt="img">
+                                <img class="media-object" src="/img/entrantes/patatas-bacon.png" alt="img">
                               </div>
                               <div class="media-body">
                                 <h4 class="media-heading"><?php text("Patatas fritas con bacon y cheddar");?></h4>
@@ -126,7 +126,7 @@
                           <li>
                             <div class="media">
                               <div class="media-left">
-                                <img class="media-object" src="/img/chicken-tenders.png" alt="img">
+                                <img class="media-object" src="/img/entrantes/entrante-chicken-tenders.png" alt="img">
                               </div>
                               <div class="media-body">
                                 <h4 class="media-heading">Chicken tenders</h4>
@@ -192,7 +192,7 @@
                           <li>
                             <div class="media">
                               <div class="media-left">
-                                <img class="media-object" src="/img/burgers/img-soon.jpg" alt="img">
+                                <img class="media-object" src="/img/entrantes/entrante-ensalada-burrata.png" alt="img">
                               </div>
                               <div class="media-body">
                                 <h4 class="media-heading">Ensalada de burrata fresca</h4>
@@ -204,7 +204,7 @@
                           <li>
                             <div class="media">
                               <div class="media-left">
-                                <img class="media-object" src="/img/burgers/img-soon.jpg" alt="img">
+                                <img class="media-object" src="/img/entrantes/entrante-ensalada-provolone.png" alt="img">
                               </div>
                               <div class="media-body">
                                 <h4 class="media-heading">Ensalada provolone</h4>
@@ -265,7 +265,7 @@
                           <li>
                             <div class="media">
                               <div class="media-left">
-                                  <img class="media-object" src="/img/hamburguesa-vegetariana.png" alt="img">
+                                  <img class="media-object" src="/img/burgers/hamburguesa-vegetariana.png" alt="img">
                               </div>
                               <div class="media-body">
                                 <h4 class="media-heading"><?php text("Vegetariana");?></h4>
@@ -290,7 +290,7 @@
                           <li>
                            <div class="media">
                              <div class="media-left">
-                                 <img class="media-object" src="/img/hamburguesa-rey-arturo.png" alt="img">
+                                 <img class="media-object" src="/img/burgers/hamburguesa-rey-arturo.png" alt="img">
                              </div>
                              <div class="media-body">
                                <h4 class="media-heading">Rey Arturo</h4>
@@ -314,7 +314,7 @@
                           <li>
                             <div class="media">
                               <div class="media-left">
-                                <img class="media-object" src="/img/hamburguesa-cheeseburger.png" alt="img">
+                                <img class="media-object" src="/img/burgers/hamburguesa-cheeseburger.png" alt="img">
                               </div>
                               <div class="media-body">
                                 <h4 class="media-heading">Cheeseburger <span class="numeros-fuente">2.0</span></h4>
@@ -345,7 +345,7 @@
                           <li>
                             <div class="media">
                               <div class="media-left">
-                                <img class="media-object" src="/img/hamburguesa-beety-miranda.png" alt="img">
+                                <img class="media-object" src="/img/burgers/hamburguesa-beety-miranda.png" alt="img">
                               </div>
                               <div class="media-body">
                                 <h4 class="media-heading">La beety miranda</h4>
@@ -358,7 +358,7 @@
                           <li>
                             <div class="media">
                               <div class="media-left">
-                                <img class="media-object" src="/img/hamburguesa-gloriosa.png" alt="img">
+                                <img class="media-object" src="/img/burgers/hamburguesa-gloriosa.png" alt="img">
                               </div>
                               <div class="media-body">
                                 <h4 class="media-heading">La gloriosa</h4>
@@ -370,7 +370,7 @@
                           <li>
                             <div class="media">
                               <div class="media-left">
-                                  <img class="media-object" src="/img/hamburguesa-gaby.png" alt="img">
+                                  <img class="media-object" src="/img/burgers/hamburguesa-gaby.png" alt="img">
                               </div>
                               <div class="media-body">
                                 <h4 class="media-heading">La gaby burger</h4>
@@ -419,7 +419,7 @@
                           <li>
                             <div class="media">
                               <div class="media-left">
-                                  <img class="media-object" src="/img/hamburguesa-andale.png" alt="img">
+                                  <img class="media-object" src="/img/burgers/hamburguesa-andale.png" alt="img">
                               </div>
                               <div class="media-body">
                                 <h4 class="media-heading">Ándale</h4>
@@ -462,7 +462,7 @@
                           <li>
                             <div class="media">
                               <div class="media-left">
-                                <img class="media-object" src="/img/hamburguesa-tenderburger.png" alt="img">
+                                <img class="media-object" src="/img/burgers/hamburguesa-tenderburger.png" alt="img">
                               </div>
                               <div class="media-body">
                                 <h4 class="media-heading">Tender burger</h4>
@@ -522,7 +522,7 @@
                           <li>
                             <div class="media">
                               <div class="media-left">
-                                <img class="media-object" src="/img/arepa-islena.png" alt="img">
+                                <img class="media-object" src="/img/arepas/arepa-islena.png" alt="img">
                               </div>
                               <div class="media-body">
                                 <h4 class="media-heading">Isleña</h4>
@@ -553,7 +553,7 @@
                           <li>
                             <div class="media">
                               <div class="media-left">
-                                  <img class="media-object" src="/img/arepa-reina-pepiada.png" alt="img">
+                                  <img class="media-object" src="/img/arepas/arepa-reina-pepiada.png" alt="img">
                               </div>
                               <div class="media-body">
                                 <h4 class="media-heading">Reina pepiada</h4>
