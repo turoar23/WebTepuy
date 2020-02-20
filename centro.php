@@ -74,6 +74,10 @@
             <script type="text/javascript">iFrameResize();</script>
             <p style="text-align:center">
               <?php text("Para reservas de más de 6 personas, llamar al número");?> <a href="tel:+34670113435" class="cell-local">(+34) 670 11 34 35</a>
+              <br>El horario de atención es de :<br>
+              Domingo a Jueves 13:00 a 16:00 y de 20:00 a 23:30<br>
+              Viernes y sábado 13:00 a 16:00 y de 20:00 a 00:00<br>
+            </p>
             </p>
             <div class="google-maps">
               <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3129.1153489649814!2d-0.48869088529873683!3d38.34631217965947!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd6237508b12c8ff%3A0x1f7c387706f11db6!2sTepuy+Burger!5e0!3m2!1ses!2ses!4v1557243087693!5m2!1ses!2ses" width="400" height="300" frameborder="0" style="border:0" allowfullscreen></iframe>

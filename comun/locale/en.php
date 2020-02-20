@@ -31,7 +31,7 @@
       "text-us-sc-2" => "“We wanted to fuse our gastronomy with burgers and show it to all people of alicante to make them know and enjoy caribbean gastronomy in a unique experience” <br><p> Mario Rosadoro, Executive Chef of Tepuy Burger",
       // menu
       "Descubre" => "Discover",
-      "Nuestro menú" => "Our menu",
+      "Nuestra carta" => "Our menu",
       "Entrantes" => "Starters",
       "Hamburguesas" => "Burgers",
       "Hamburguesas de pollo" => "Chicken burgers",

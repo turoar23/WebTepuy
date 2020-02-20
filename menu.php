@@ -66,7 +66,7 @@
         <div class="mu-restaurant-menu-area">
           <div class="mu-title">
             <span class="mu-subtitle"><?php text('Descubre');?></span>
-            <h1><?php text('Nuestro menú');?></h1>
+            <h1><?php text('Nuestra carta');?></h1>
             <i class="fa fa-spoon"></i>
             <span class="mu-title-bar"></span>
           </div>
