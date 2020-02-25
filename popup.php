@@ -6,7 +6,7 @@
    * todo el tiempo el pop-up. Pero una vez termina la sesion, la proxima vez si le aparece
    */
   // Comprobamos si la cookie esta puesta
-  /*if(!isset($_COOKIE['pop-up'])){
+  if(!isset($_COOKIE['pop-up'])){
     include('./comun/popup.php');  
-  }*/
+  }
 ?>

@@ -6,12 +6,12 @@
     <!--<p>Some text in the Modal..</p>-->
     <a href="/menu">
     <picture>
-      <source srcset="/img/anuncios/kong-600x400.jpg" media="(max-width: 800px)">
-      <source srcset="/img/anuncios/kong-1500x700.jpg">
+      <source srcset="/img/anuncios/perritos/400x600.jpg" media="(max-width: 800px)">
+      <source srcset="/img/anuncios/perritos/escritorio-1500x700.jpg">
       <img class="banner" src="/img/anuncios/kong-600x400.jpg" style="width:100%;"/>
     </picture>
     </a>
-    <p class="limitado">Solo por tiempo limitado*</p>
-    <p>* del 24 de enero hasta el 9 de febrero</p>
+    <!--<p class="limitado">Solo por tiempo limitado*</p>
+    <p>* del 24 de enero hasta el 9 de febrero</p>-->
   </div>
 </div>

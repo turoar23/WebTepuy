@@ -72,16 +72,71 @@
           </div>
           <div class="mu-restaurant-menu-content">
             <ul class="nav nav-tabs mu-restaurant-menu">
-              <li class="active"><a href="#entrantes" data-toggle="tab"><?php text("Entrantes");?></a></li>
+              <li class="active"><a href="#limitada" data-toggle="tab"><?php text("Especial");?></a></li>
+              <!--<li class="active"><a href="#entrantes" data-toggle="tab"><?php text("Entrantes");?></a></li>-->
+              <li><a href="#entrantes" data-toggle="tab"><?php text("Entrantes");?></a></li>
               <li><a href="#burgers" data-toggle="tab"><?php text("Hamburguesas");?></a></li>
               <li><a href="#burgers-pollo" data-toggle="tab"><?php text("Hamburguesas de pollo");?></a></li>
               <li><a href="#arepas" data-toggle="tab">Arepas</a></li>
               <li><a href="#menu-del-dia" data-toggle="tab"><?php text("Menú del dia");?></a></li>
             </ul>
-
             <!-- Tab panes -->
             <div class="tab-content">
-              <div class="tab-pane fade in active" id="entrantes">
+            <div class="tab-pane fade in active" id="limitada">
+                <div class="mu-tab-content-area">
+                  <div class="row">
+                    <div class="col-md-6">
+                      <div class="mu-tab-content-left">
+                        <ul class="mu-menu-item-nav">
+                          <li>
+                            <div class="media">
+                              <div class="media-left">
+                                <img class="media-object" src="/img/anuncios/perritos/caraqueño.jpg" alt="img">
+                              </div>
+                              <div class="media-body">
+                                <h4 class="media-heading">Caraqueño</h4>
+                                <span class="mu-menu-price">€4,50</span>
+                                <p>Base de salsa Equis, salchicha, queso cheddar rallado, salsa Beety y cebollino</p>
+                              </div>
+                            </div>
+                          </li>
+                          <li>
+                            <div class="media">
+                              <div class="media-left">
+                                <img class="media-object" src="/img/anuncios/perritos/gocho.jpg" alt="img">
+                              </div>
+                              <div class="media-body">
+                                <h4 class="media-heading">Gocho</h4>
+                                <span class="mu-menu-price">€4,50</span>
+                                <p>Base de salsa Tepuy, salchicha, salsa de queso, bacon y cebolla frita</p>
+                              </div>
+                            </div>
+                          </li>
+                        </ul>
+                      </div>
+                    </div>
+                   <div class="col-md-6">
+                     <div class="mu-tab-content-right">
+                        <ul class="mu-menu-item-nav">
+                          <li>
+                            <div class="media">
+                              <div class="media-left">
+                                <img class="media-object" src="/img/anuncios/perritos/maracucho.jpg" alt="img">
+                              </div>
+                              <div class="media-body">
+                                <h4 class="media-heading">Maracucho</h4>
+                                <span class="mu-menu-price">€4,5</span>
+                                <p>Salchicha, pico de gallo, queso parmesano y salsa Maracucha</p>
+                              </div>
+                            </div>
+                          </li>
+                        </ul>
+                     </div>
+                   </div>
+                 </div>
+               </div>
+              </div>
+              <div class="tab-pane fade " id="entrantes">
                 <div class="mu-tab-content-area">
                   <div class="row">
                     <div class="col-md-6">
